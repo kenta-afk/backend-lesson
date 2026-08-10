@@ -100,9 +100,7 @@ cd backend-lesson
 
 ### ステップ2: Docker Composeで起動
 
-```bash
-docker-compose up
-```
+    docker compose up
 
 初回実行時は、必要なイメージをダウンロードして構築するため、数分時間がかかります。
 
